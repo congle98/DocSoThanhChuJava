@@ -273,7 +273,7 @@ public class demo {
                         break;
 
                 }
-                System.out.println(hundreds+dozens+unitRow);
+                System.out.println(hundreds+" and "+dozens+unitRow);
             }
 
         }
